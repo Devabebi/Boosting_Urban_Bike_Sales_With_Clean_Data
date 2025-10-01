@@ -1,2 +1,4 @@
 # Boosting_Urban_Bike_Sales_With_Clean_Data
-This Excel-based Data Cleaning Project focuses on standardising inconsistent sales data from Urban Cycles' branches and online channels. The cleaned data enhances accuracy for demand forecasting, inventory control, and strategic business decisions.
+In this project I help Urban Cycles clean their inconsistent sales report data sourced from their multiple branches and online transactions
+The cleaned data enhances accuracy for demand forecasting, inventory control, and strategic business decisions.
+The Clean data prevent from overstocking or understocking of bikes, missed sales opportunities, and inefficient resource allocation.
