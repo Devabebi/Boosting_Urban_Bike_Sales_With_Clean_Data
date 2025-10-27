@@ -1,5 +1,5 @@
 # Boosting_Urban_Bike_Sales_With_Clean_Data
-<img width="267" height="163" alt="image" src="https://github.com/user-attachments/assets/f6d8b6b4-f340-49b7-8ccf-059b5fc7fe65" />
+<img width="474" height="316" alt="image" src="https://github.com/user-attachments/assets/7f2ce21d-42d3-4557-a05b-8b57275cbb5a" />
 
 🔒 Disclaimer
 All datasets and reports used in this portfolio are entirely fictitious and contain no proprietary, confidential, or sensitive information from any company, institution, or individual. The information presented is dummy data created solely to demonstrate my capability in using Tableau for advanced analytics within the real estate industry.
