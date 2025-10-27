@@ -87,10 +87,13 @@ I presented a clean, analysis ready dataset along with a summary of steps taken.
 
 
 ## Result
-The Raw Dataset
-<img width="1830" height="720" alt="Screenshot 2025-10-27 143229" src="https://github.com/user-attachments/assets/7e2d56c4-f408-4c87-be36-293965cda9b5" />
 
-The Cleaned Dataset
+**The Raw Dataset**
+
+<img width="1527" height="725" alt="Screenshot 2025-10-27 144615" src="https://github.com/user-attachments/assets/58f84830-4bce-422e-9dd7-f06a092d2058" />
+
+**The Cleaned Dataset**
+
 <img width="1647" height="733" alt="Screenshot 2025-10-27 143539" src="https://github.com/user-attachments/assets/81c9071c-af70-4df2-8bbc-79f0e33ac35e" />
 
 
